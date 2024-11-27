@@ -30,3 +30,33 @@ DAX is a formula language used in Power BI to perform data manipulation and anal
 ## Data Visualizations
 ![Dashboard Overview](images/Dashboard.png)
 This human Resource Dashboard provides a structured and interactive visualization of key HR metrics. This helps the stakeholders analyze workforce performance, engagement, and demographics effectively.  The visualizations includes Cards which shows Total Work days, Total salary, Total Employees and Total active employees, a gauge chart which shows the average performance rating of employees. Then we have a bar chart showing Total Salary and Sick Days by Department, Clustered Column Chart that gives Average of Years Since Last Promotion by Job Involvement and Education and so on as given in the screenshot. Interactive features are given to the dashboard by including slicers such as year, department, business unit etc. and a gender toggle button.
+
+## Data Insights
+**By analyzing the overall data from 2013 to 2018, it can be seen that:**
+- As the Salary increases, the no. of Sick days also increases within departments. 
+- Employees with higher average Sick days tend to have the best worklife balance. 
+- As age increases the Employee Job satisfaction drops when there is no increment in salary. 
+- Younger employees tend show very high job satisfaction even if the least salary is offered.
+
+**Job satisfaction v/s Average performance rate**
+![Average performance rate](images/performance-rate.png)
+- From the above screenshot we can see that as job satisfaction increases average performance rate also increases.
+SUGGESTION: Increasing salary of elder employees will increase the performance rating.
+
+**Job Involvement v/s Promotion**
+![Promotion](images/job-involvement.png)
+- Considering an average elder employee with a doctorate degree, It tend to have a frequent promotion for those who has higher job involvement than an average younger employee. 
+- While an average younger employee with a bachelors degree tend to get a frequent promotion when he possess a medium job involvement.
+SUGGESTION: Hiring more freshers is profitable to the company since they show higher job satisfaction with the least salary hike and possess a medium level of job involvement.
+
+## Comparing 2013 Data insights and 2018 Data Insights
+- The Total Salary spend on Employees has increased from $52.93M to $59.12M. (11.69% increase) 
+- Average performance rating increased from 2.47 to 2.53 
+- In 2013, Human Resource was the department getting highest total salary($4.87M) with 52 employees. 
+- In 2018, Advertising became the most paid department($4.81M) with 51 employees.  
+- In 2013, younger employees were paid the least salary. In contrast the highest paid in 2018 were the youngest employees. 
+- Group B had the most hirings in 2013. In contrast it was the least hired group in 2018.
+
+OBSERVATION: From comparing 2013 Human Resource data and 2018 data, we can see that  
+younger employees are hired more than elder employees and more salary is invested in advertising 
+department.
