@@ -1,1 +1,1 @@
-# Human-Resource-Report-Dashboard-using-PowerBI
+# HR-Analytics-Dashboard-using-PowerBI
