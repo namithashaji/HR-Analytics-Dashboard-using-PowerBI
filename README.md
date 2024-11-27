@@ -28,5 +28,5 @@ DAX is a formula language used in Power BI to perform data manipulation and anal
 - Total Sick Days = SUM('Human-Resources' [Sick Days]) 
 
 ## Data Visualizations
-![Dashboard Overview](dashboard.png)
+![Dashboard Overview](images/Dashboard.png)
 This human Resource Dashboard provides a structured and interactive visualization of key HR metrics. This helps the stakeholders analyze workforce performance, engagement, and demographics effectively.  The visualizations includes Cards which shows Total Work days, Total salary, Total Employees and Total active employees, a gauge chart which shows the average performance rating of employees. Then we have a bar chart showing Total Salary and Sick Days by Department, Clustered Column Chart that gives Average of Years Since Last Promotion by Job Involvement and Education and so on as given in the screenshot. Interactive features are given to the dashboard by including slicers such as year, department, business unit etc. and a gender toggle button.
