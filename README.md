@@ -41,12 +41,14 @@ This human Resource Dashboard provides a structured and interactive visualizatio
 **Job satisfaction v/s Average performance rate**
 ![Average performance rate](images/performance-rate.png)
 - From the above screenshot we can see that as job satisfaction increases average performance rate also increases.
+
 SUGGESTION: Increasing salary of elder employees will increase the performance rating.
 
 **Job Involvement v/s Promotion**
 ![Promotion](images/job-involvement.png)
 - Considering an average elder employee with a doctorate degree, It tend to have a frequent promotion for those who has higher job involvement than an average younger employee. 
 - While an average younger employee with a bachelors degree tend to get a frequent promotion when he possess a medium job involvement.
+
 SUGGESTION: Hiring more freshers is profitable to the company since they show higher job satisfaction with the least salary hike and possess a medium level of job involvement.
 
 ## Comparing 2013 Data insights and 2018 Data Insights
